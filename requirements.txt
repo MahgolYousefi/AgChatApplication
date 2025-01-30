@@ -10,4 +10,4 @@ langchain-chroma
 langsmith
 langchain-openai
 langchain-core
-
+gunicorn

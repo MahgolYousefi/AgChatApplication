@@ -6,9 +6,6 @@ langchain-text-splitters
 langchain-community 
 langchain-chroma 
 openai 
-sounddevice 
-soundfile 
-wavio 
 python-dotenv 
 numpy
 gunicorn

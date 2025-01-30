@@ -10,7 +10,7 @@ dash-bootstrap-components==1.7.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-dash-tools==1.12.0
+dash-tools
 langchain-text-splitters==0.3.5
 openai==1.60.1
 langchain==0.3.15
@@ -19,7 +19,7 @@ pypdf==5.2.0
 langchain-community==0.3.15
 langchain-chroma==0.2.0
 langsmith==0.3.1
-langchain-core==0.3.31
+langchain-core
 gunicorn
 
 

@@ -9,8 +9,6 @@ from dash import html, dcc, Input, Output, State, callback, ALL
 import dash_bootstrap_components as dbc
 from datetime import datetime
 import os
-import chromadb
-from chromadb.config import Settings
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -19,13 +17,8 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_chroma import Chroma
-from openai import OpenAI
 import base64
 import tempfile
-import sounddevice as sd
-import soundfile as sf
-import numpy as np
-import wavio
 from dotenv import load_dotenv
 import uuid
 

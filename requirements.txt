@@ -1,0 +1,13 @@
+numpy
+pandas
+dash
+openai
+langchain
+langchain_openai
+pypdf2
+langchain-community
+langchain-chroma
+langsmith
+langchain-openai
+langchain-core
+

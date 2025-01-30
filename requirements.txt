@@ -7,7 +7,7 @@ langchain-community
 langchain-chroma 
 openai 
 sounddevice 
-oundfile 
+soundfile 
 wavio 
 python-dotenv 
 numpy

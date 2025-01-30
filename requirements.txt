@@ -13,8 +13,6 @@ dash-table
 dash-tools
 langchain-text-splitters
 openai
-langchain-core
-langsmith
 langchain-community
 langchain-chroma
 langchain

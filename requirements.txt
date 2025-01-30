@@ -13,13 +13,12 @@ dash-table
 dash-tools
 langchain-text-splitters
 openai
+langchain-core
+langsmith
+langchain-community
+langchain-chroma
 langchain
 langchain_openai
 pypdf
-langchain-community
-langchain-chroma
-langsmith
-langchain-core
 gunicorn
-
 

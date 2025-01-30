@@ -1,6 +1,14 @@
 numpy
 pandas
+sounddevice
+soundfile
+wavio
+uuid
+dotenv
+chromadb
 dash
+dash-bootstrap-components
+langchain-text-splitters
 openai
 langchain
 langchain_openai
@@ -11,3 +19,5 @@ langsmith
 langchain-openai
 langchain-core
 gunicorn
+
+

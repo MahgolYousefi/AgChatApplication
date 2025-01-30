@@ -1,22 +1,19 @@
-numpy
-pandas
 sounddevice
 soundfile
 wavio
 python-dotenv
-chromadb
+langchain
+langchain-text-splitters
+langchain-community
+langchain-chroma
+langchain_openai
 dash
 dash-bootstrap-components
 dash-core-components
 dash-html-components
 dash-table
 dash-tools
-langchain-text-splitters
 openai
-langchain-community
-langchain-chroma
-langchain
-langchain_openai
 pypdf
 gunicorn
 

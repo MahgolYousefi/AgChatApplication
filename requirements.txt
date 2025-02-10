@@ -5,10 +5,16 @@ langchain-openai
 langchain-text-splitters 
 langchain-community 
 langchain-chroma 
+chromadb
 openai 
 python-dotenv 
 pypdf
 numpy
 gunicorn
+camelot-py[cv]
+pandas
+soundfile
+wavio
+
 
 

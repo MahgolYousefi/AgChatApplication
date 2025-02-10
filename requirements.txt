@@ -11,7 +11,7 @@ python-dotenv
 pypdf
 numpy
 gunicorn
-camelot-py[cv]
+camelot
 pandas
 soundfile
 wavio
